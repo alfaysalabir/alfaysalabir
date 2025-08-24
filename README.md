@@ -1,5 +1,5 @@
 <!-- banner image starts here  -->
-<img src="./images/banner.jpg" width="100%">
+<img src="banner.jpg" width="100%">
 <!-- banner image ends here  -->
 
 <h1> 👋 Assalamulaikum, I'm Al-Faysal Abir </h1>
