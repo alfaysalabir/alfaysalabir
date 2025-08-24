@@ -11,8 +11,8 @@ Studied Computer Science & Technology (C.S.T)
 
 <!-- Contact me section starts here  -->
 
-[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
-[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
+[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="facebook.svg" />][facebook]
+[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="linkedin.svg" />][linkedin]
 <br />
 <br />
 
