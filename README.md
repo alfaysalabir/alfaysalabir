@@ -33,15 +33,15 @@ I am a Computer Science & Technology Student. I loved to do Programming Language
 
 ### 👨🏻‍🎓 &nbsp; Education
 
-1. Diploma in Engineering Computer Science & Technology (C.S.T)
-   Rumdo Institue of Modern Technology (RIMT)
-   Mymensingh, Bangladesh.
-2. S.S.C in Humanities
-   Ideal International School & Collage
-   Mymensingh, Bangladesh.
-3. Special Certificet:
-   National Skill Standard Basic (360 Hrs) 6 Months Course in Computer Office Application
-   Bangladesh Technical Edecation Board (BTEB).
+1. Diploma in Engineering Computer Science & Technology (C.S.T) <br/>
+   Rumdo Institue of Modern Technology (RIMT) <br/>
+   Mymensingh, Bangladesh. <br/>
+2. S.S.C in Humanities <br/>
+   Ideal International School & Collage <br/>
+   Mymensingh, Bangladesh. <br/>
+3. Special Certificet: <br/>
+   National Skill Standard Basic (360 Hrs) 6 Months Course in Computer Office Application <br/>
+   Bangladesh Technical Edecation Board (BTEB). <br/>
 
 <br />
 
