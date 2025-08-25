@@ -31,7 +31,7 @@ I am a Computer Science & Technology Student. I loved to do Programming Language
 
 <!-- education section starts here  -->
 
-### 👨🏻‍🎓 &nbsp; Education
+### 👨🏻‍🎓 &nbsp; Education:
 
 1. Diploma in Engineering Computer Science & Technology (C.S.T) <br/>
    Rumdo Institue of Modern Technology (RIMT) <br/>
