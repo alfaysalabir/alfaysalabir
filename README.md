@@ -23,13 +23,15 @@ Studied Computer Science & Technology (C.S.T)
 
 <!-- about-me section starts here  -->
 
-### 👨‍🏫 &nbsp; About Me
+### 👨‍🏫 &nbsp; About Me:
+
+🔭 I’m currently working on: <br>      🖥️ Full Stack Developer (MERN)<br><br>👯 I’m looking to collaborate on:<br>      🧑‍💻 Software Engineering Team<br><br>🤝 I’m looking for help with:<br>       🚀 Full Stack Development Project (MERN)<br><br>🌱 I’m currently learning:<br>      ⚙️ Font-End & Back-End Development (MERN)<br><br>💬 Ask me about:<br>      🏗️ MERN Stack Development<br><br>⚡ Fun fact:<br>      ⌨️ I use tabs over spaces <br/>
 
 <p align="justify">
 I am a Computer Science & Technology Student. I loved to do Programming Languages, Web Design & Development, and App Development. And I want to ba a Software Engineer. I practice Programming Language daily and I admitted to 1 Year Diploma Course in MERN Stack Development. Every day I want to learn something new knowledge of Programming Language and Improve my Programming Skill.
 </p>
 
-<br />
+<br/>
 <!-- about-me section ends here  -->
 
 <!-- education section starts here  -->
