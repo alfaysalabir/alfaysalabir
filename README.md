@@ -3,9 +3,7 @@
 <!-- banner image ends here  -->
 
 <h1> 👋 Assalamulaikum, 
-   <br/>
 🚀 I'm Al-Faysal Abir 
-   <br/>
    🖥️ Full Stack Developer (MERN)
 </h1>
 
