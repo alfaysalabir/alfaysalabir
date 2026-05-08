@@ -2,10 +2,10 @@
 <img src="banner.jpg" width="100%">
 <!-- banner image ends here  -->
 
-<h1> 👋 Assalamulaikum, 
+<h2> 👋 Assalamulaikum, 
 🚀 I'm Al-Faysal Abir 
    🖥️ Full Stack Developer (MERN)
-</h1>
+</h2>
 
 Studied Computer Science & Technology (C.S.T)
 <br/>
