@@ -42,16 +42,6 @@ I am a Computer Science & Technology Student. I loved to do Programming Language
 <br/>
 <!-- skills section ends here  -->
 
-<!-- github status section start here  -->
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=alfaysalabir&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=alfaysalabir&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=alfaysalabir&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<br/>
-<!-- github status section end here  -->
-
 <!-- education section starts here  -->
 
 ## 👨🏻‍🎓 &nbsp; Education:
@@ -79,9 +69,18 @@ I am a Computer Science & Technology Student. I loved to do Programming Language
 - 🇮🇳 Hindi : Conversational
 - 🇵🇰 Urdu : Conversational
   <br />
-  <br />
 
 <!-- my languages section ends here  -->
+
+<!-- github status section start here  -->
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=alfaysalabir&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=alfaysalabir&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=alfaysalabir&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<br/>
+<!-- github status section end here  -->
 
 <!-- my sports and game section starts here  -->
 
