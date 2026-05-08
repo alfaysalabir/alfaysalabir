@@ -55,7 +55,6 @@ I am a Computer Science & Technology Student. I loved to do Programming Language
 3. Special Certificet: <br/>
    National Skill Standard Basic (360 Hrs) 6 Months Course in Computer Office Application <br/>
    Bangladesh Technical Edecation Board (BTEB).
-
 <br />
 
 <!-- education section ends here  -->
@@ -68,6 +67,7 @@ I am a Computer Science & Technology Student. I loved to do Programming Language
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Fluent
 - 🇮🇳 Hindi : Conversational
 - 🇵🇰 Urdu : Conversational
+  <br />
   <br />
 
 <!-- my languages section ends here  -->
