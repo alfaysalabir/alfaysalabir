@@ -80,6 +80,16 @@ I am a Computer Science & Technology Student. I loved to do Programming Language
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=alfaysalabir&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alfaysalabir&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<br/>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=alfaysalabir&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
+
+<br/>
 <!-- github status section end here  -->
 
 <!-- my sports and game section starts here  -->
@@ -93,6 +103,16 @@ I am a Computer Science & Technology Student. I loved to do Programming Language
 
 <br />
 <!-- my sports and games section ends here  -->
+
+<!-- profil vesitor section start here  -->
+
+---
+[![](https://komarev.com/ghpvc/?username=alfaysalabir&icon=10&color=13)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<br/>
+<!-- profil vesitor section end here  -->
 
 ---
 
