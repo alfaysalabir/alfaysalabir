@@ -91,3 +91,5 @@ All rights reserved by Al-Faysal Abir @2025
 [github]: https://github.com/alfaysalabir
 
 <!-- Links section ends here -->
+<br/>
+[![](https://komarev.com/ghpvc/?username=alfaysalabir&icon=10&color=13)](https://visitcount.itsvg.in)
