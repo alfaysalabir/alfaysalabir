@@ -106,17 +106,16 @@ I am a Computer Science & Technology Student. I loved to do Programming Language
 
 <!-- profil vesitor section start here  -->
 
----
+➖
 [![](https://komarev.com/ghpvc/?username=alfaysalabir&icon=10&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<br/>
 <!-- profil vesitor section end here  -->
 
 ---
 
 Thanks for going through my Portfolio.
-All rights reserved by Al-Faysal Abir @2025
+All rights reserved by Al-Faysal Abir @2026
 
 ---
