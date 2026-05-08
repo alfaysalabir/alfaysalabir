@@ -107,7 +107,7 @@ I am a Computer Science & Technology Student. I loved to do Programming Language
 <!-- profil vesitor section start here  -->
 
 ---
-[![](https://komarev.com/ghpvc/?username=alfaysalabir&icon=10&color=random)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=alfaysalabir&icon=10&color=green)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
