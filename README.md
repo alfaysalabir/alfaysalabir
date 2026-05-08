@@ -14,8 +14,8 @@ Studied Computer Science & Technology (C.S.T)
 
 <!-- Contact me section starts here  -->
 
-[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="facebook.svg" />][facebook]
-[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="linkedin.svg" />][linkedin]
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alfaysalabir007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alfaysalabir) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alfaysalabir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alfaysalabir@gmail.com)
 <br />
 <br />
 
