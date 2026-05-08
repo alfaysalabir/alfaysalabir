@@ -14,7 +14,7 @@ Studied Computer Science & Technology (C.S.T)
 
 <!-- Contact me section starts here  -->
 
-## 🌐 Socials:
+## 🌐 Contact me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alfaysalabir007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alfaysalabir) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alfaysalabir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alfaysalabir@gmail.com)
 <br />
 <br />
@@ -23,7 +23,7 @@ Studied Computer Science & Technology (C.S.T)
 
 <!-- about-me section starts here  -->
 
-### 👨‍🏫 &nbsp; About Me:
+## 👨‍🏫 &nbsp; About Me:
 
 🔭 I’m currently working on: <br>      🖥️ Full Stack Developer (MERN)<br><br>👯 I’m looking to collaborate on:<br>      🧑‍💻 Software Engineering Team<br><br>🤝 I’m looking for help with:<br>       🚀 Full Stack Development Project (MERN)<br><br>🌱 I’m currently learning:<br>      ⚙️ Font-End & Back-End Development (MERN)<br><br>💬 Ask me about:<br>      🏗️ MERN Stack Development<br><br>⚡ Fun fact:<br>      ⌨️ I use tabs over spaces <br/>
 
@@ -42,9 +42,19 @@ I am a Computer Science & Technology Student. I loved to do Programming Language
 <br/>
 <!-- skills section ends here  -->
 
+<!-- github status section start here  -->
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=alfaysalabir&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=alfaysalabir&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=alfaysalabir&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<br/>
+<!-- github status section end here  -->
+
 <!-- education section starts here  -->
 
-### 👨🏻‍🎓 &nbsp; Education:
+## 👨🏻‍🎓 &nbsp; Education:
 
 1. Diploma in Engineering Computer Science & Technology (C.S.T) <br/>
    Rumdo Institue of Modern Technology (RIMT) <br/>
@@ -62,7 +72,7 @@ I am a Computer Science & Technology Student. I loved to do Programming Language
 
 <!-- my languages section starts here  -->
 
-### Languages:
+## 🗣️ Languages:
 
 - 🇧🇩 Bangla : Native
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Fluent
@@ -91,11 +101,3 @@ Thanks for going through my Portfolio.
 All rights reserved by Al-Faysal Abir @2025
 
 ---
-
-<!-- Links section starts here -->
-
-[facebook]: https://www.facebook.com/alfaysalabir007/
-[linkedin]: https://www.linkedin.com/in/alfaysalabir/
-[github]: https://github.com/alfaysalabir
-
-<!-- Links section ends here -->
